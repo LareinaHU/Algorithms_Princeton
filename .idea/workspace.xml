@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2494df8-2c75-4e83-aae0-6ea396c435e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pz4VreiwqLOPfo07PHnJKvOFDu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Bracket">
+    <configuration name="Bracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1_datastructure.Bracket" />
+      <module name="COursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1_datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1_datastructure.answer" />
+      <module name="COursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1_datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check_brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1_datastructure.check_brackets" />
+      <module name="COursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1_datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="optimalweight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.optimalweight" />
+      <module name="COursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="try1234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.try1234" />
+      <module name="COursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bracket" />
+        <item itemvalue="Application.answer" />
+        <item itemvalue="Application.check_brackets" />
+        <item itemvalue="Application.optimalweight" />
+        <item itemvalue="Application.try1234" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2494df8-2c75-4e83-aae0-6ea396c435e7" name="Default Changelist" comment="" />
+      <created>1616172611594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616172611594</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="818" y="249" key="#Fibonacci_(1)" timestamp="1616563399550">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="818" y="249" key="#Fibonacci_(1)/0.25.1680.1025@0.25.1680.1025" timestamp="1616563399550" />
+    <state x="653" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1617924155092">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="653" y="247" key="#com.intellij.ide.util.MemberChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1617924155092" />
+    <state x="603" y="246" key="#xdebugger.evaluate" timestamp="1619883333078">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="603" y="246" key="#xdebugger.evaluate/0.25.1680.1025@0.25.1680.1025" timestamp="1619883333078" />
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom" timestamp="1623795808237">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1623795808237" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center" timestamp="1623795808236">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1623795808236" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left" timestamp="1623795808235">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1623795808235" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right" timestamp="1623795808236">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="253" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1623795808236" />
+    <state width="1638" height="342" key="GridCell.Tab.1.bottom" timestamp="1621361799571">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1621361799571" />
+    <state width="1638" height="342" key="GridCell.Tab.1.center" timestamp="1621361799570">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1621361799570" />
+    <state width="1638" height="342" key="GridCell.Tab.1.left" timestamp="1621361799570">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1621361799570" />
+    <state width="1638" height="342" key="GridCell.Tab.1.right" timestamp="1621361799571">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1621361799571" />
+    <state width="1638" height="342" key="GridCell.Tab.2.bottom" timestamp="1619883375375">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.2.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1619883375375" />
+    <state width="1638" height="342" key="GridCell.Tab.2.center" timestamp="1619883375374">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.2.center/0.25.1680.1025@0.25.1680.1025" timestamp="1619883375374" />
+    <state width="1638" height="342" key="GridCell.Tab.2.left" timestamp="1619883375374">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.2.left/0.25.1680.1025@0.25.1680.1025" timestamp="1619883375374" />
+    <state width="1638" height="342" key="GridCell.Tab.2.right" timestamp="1619883375375">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.2.right/0.25.1680.1025@0.25.1680.1025" timestamp="1619883375375" />
+    <state x="505" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1623735598805">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="505" y="252" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1623735598805" />
+  </component>
+</project>
